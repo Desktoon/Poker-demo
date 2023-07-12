@@ -1,0 +1,7 @@
+C:\Users\tommy\source\repos\Poker_project2\Poker_project2\bin\Debug\Poker_project2.exe.config
+C:\Users\tommy\source\repos\Poker_project2\Poker_project2\bin\Debug\Poker_project2.exe
+C:\Users\tommy\source\repos\Poker_project2\Poker_project2\bin\Debug\Poker_project2.pdb
+C:\Users\tommy\source\repos\Poker_project2\Poker_project2\obj\Debug\Poker_project2.csproj.AssemblyReference.cache
+C:\Users\tommy\source\repos\Poker_project2\Poker_project2\obj\Debug\Poker_project2.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\Poker_project2\Poker_project2\obj\Debug\Poker_project2.exe
+C:\Users\tommy\source\repos\Poker_project2\Poker_project2\obj\Debug\Poker_project2.pdb
