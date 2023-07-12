@@ -1,0 +1,6 @@
+C:\Users\tommy\source\repos\Poker-demo\Poker_project2\bin\Release\Poker_project2.exe.config
+C:\Users\tommy\source\repos\Poker-demo\Poker_project2\bin\Release\Poker_project2.exe
+C:\Users\tommy\source\repos\Poker-demo\Poker_project2\bin\Release\Poker_project2.pdb
+C:\Users\tommy\source\repos\Poker-demo\Poker_project2\obj\Release\Poker_project2.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\Poker-demo\Poker_project2\obj\Release\Poker_project2.exe
+C:\Users\tommy\source\repos\Poker-demo\Poker_project2\obj\Release\Poker_project2.pdb

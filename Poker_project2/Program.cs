@@ -406,6 +406,8 @@ namespace ConsoleApp2
             }
 
             Console.WriteLine("You have: " + playerPoints + " points");
+            Console.WriteLine("Press enter to close...");
+            System.Console.ReadLine();
         }
     }
 }
